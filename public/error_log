@@ -1,0 +1,8 @@
+[22-Jan-2021 16:38:10 UTC] PHP Warning:  Use of undefined constant DIR - assumed 'DIR' (this will throw an Error in a future version of PHP) in /home/miisu964/masti.miisuppliers.in/public/index.php on line 25
+[22-Jan-2021 16:38:10 UTC] PHP Warning:  require(DIR/../../laravelr/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/miisu964/masti.miisuppliers.in/public/index.php on line 25
+[22-Jan-2021 16:38:10 UTC] PHP Warning:  require(DIR/../../laravelr/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/miisu964/masti.miisuppliers.in/public/index.php on line 25
+[22-Jan-2021 16:38:10 UTC] PHP Fatal error:  require(): Failed opening required 'DIR/../../laravelr/bootstrap/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/miisu964/masti.miisuppliers.in/public/index.php on line 25
+[01-Jun-2021 17:20:42 UTC] PHP Fatal error:  Trait 'App\HasFactory' not found in /home/miisu964/masti.miisuppliers.in/app/Users.php on line 10
+[28-Oct-2021 17:14:02 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\Factories\HasFactory' not found in /home/miisu964/masti.miisuppliers.in/app/Image.php on line 9
+[28-Oct-2021 17:15:19 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\Factories\HasFactory' not found in /home/miisu964/masti.miisuppliers.in/app/Image.php on line 9
+[28-Oct-2021 17:16:45 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\Factories\HasFactory' not found in /home/miisu964/masti.miisuppliers.in/app/Image.php on line 9
